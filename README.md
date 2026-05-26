@@ -34,6 +34,8 @@ Diseño de una interfaz limpia eliminando las líneas de cuadrícula tradicional
 * **Gráfico de Tendencia Generacional:** Permite identificar fácilmente qué grupo demográfico es el cliente ideal.
 * **Segmentadores de Datos (Slicers):** Conexión de filtros interactivos de *Estado Civil*, *Región* y *Educación* a todas las gráficas en simultáneo para permitir la exploración personalizada de los datos.
 
+![Dashboard](bike-sales-dashboard.png)
+
 ---
 
 ## 📈 Insights Clave del Negocio

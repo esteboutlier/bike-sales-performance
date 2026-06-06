@@ -1,5 +1,9 @@
 # Bike Sales Performance Dashboard (Excel Project)
 
+## 🌎 Language
+
+> 📖 [Read in English](README.md) | [Leer en Español](README_ES.md)
+
 ## 📌 Project Description
 This project consists of an end-to-end data analysis pipeline developed entirely within **Microsoft Excel**. The primary goal is to transform a "dirty" dataset containing demographic information of potential customers (`bike_buyers`) into an interactive dashboard that addresses key business questions and facilitates commercial decision-making.
 

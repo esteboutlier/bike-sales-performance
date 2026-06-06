@@ -1,4 +1,8 @@
-# Bike Sales Performance Dashboard (Excel Project)
+# Dashboard de Ventas de Bicicletas (Excel Project)
+
+## 🌎 Idioma
+
+> 📖 [Read in English](README.md) | [Leer en Español](README_ES.md)
 
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en un flujo completo de análisis de datos desarrollado íntegramente en **Microsoft Excel**. El objetivo principal es transformar un conjunto de datos "sucios" con información demográfica de clientes potenciales (`bike_buyers`) en un tablero de control interactivo (Dashboard) que responda a preguntas de negocio y facilite la toma de decisiones comerciales.
